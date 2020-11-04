@@ -2,7 +2,7 @@
 
 This is a [Blitz.js](https://github.com/blitz-js/blitz) app.
 
-# **name**
+# **Stella Store**
 
 ## Getting Started
 
@@ -89,7 +89,6 @@ stellaStore
 │   │   ├── _document.tsx
 │   │   ├── 404.tsx
 │   │   ├── index.tsx
-│   │   └── index.test.tsx
 │   └── users
 │   │   └── queries
 │   │       └── getCurrentUser.ts
